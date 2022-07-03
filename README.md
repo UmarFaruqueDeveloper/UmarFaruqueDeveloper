@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Umar(Engineer Babu))](https://www.youtube.com/c/EngineerBabu4u)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Umar_EB-red)](https://www.youtube.com/c/EngineerBabu4u)
 [![Linkedin Badge](https://img.shields.io/badge/-Umar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umarfaruque02/)](https://www.linkedin.com/in/umarfaruque02/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Umar-green)](https://www.akash)
